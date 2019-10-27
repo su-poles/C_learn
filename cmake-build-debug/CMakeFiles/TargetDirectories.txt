@@ -1,0 +1,4 @@
+/Users/liyanlong/CLionProjects/C_learn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/liyanlong/CLionProjects/C_learn/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/liyanlong/CLionProjects/C_learn/cmake-build-debug/CMakeFiles/chapter3-platinum.c.dir
+/Users/liyanlong/CLionProjects/C_learn/cmake-build-debug/CMakeFiles/chapter1-mm.c.dir
